@@ -96,6 +96,11 @@ body {
   background: #00bd9b;
 }
 
+.message.rec {
+  color: white;
+  background: grey;
+}
+
 .message-footer {
   font-size: 12px;
   align-self: flex-end;
